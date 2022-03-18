@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/start/cleancode-kata-gildedrose/gildedrose.iml" filepath="$PROJECT_DIR$/start/cleancode-kata-gildedrose/gildedrose.iml" />
+      <module fileurl="file://$PROJECT_DIR$/finish/cleancode-kata-gildedrose/gildedrose (1).iml" filepath="$PROJECT_DIR$/finish/cleancode-kata-gildedrose/gildedrose (1).iml" />
+    </modules>
+  </component>
+</project>
